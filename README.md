@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlimKugot
 - 👀 I’m interested in Backend Developing
-- 🌱 I’m currently learning Java EE
+- 🌱 I’m currently learning Java EE and Spring framework
 - 📫 How to reach me: alim.filipov@gmail.com
 
 <!---
