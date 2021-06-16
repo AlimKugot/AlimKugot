@@ -1,6 +1,4 @@
-## О себе 
-
-*I will translate all as soon as possible* 
+## About me 
 
 - 👋 Hi, I’m @AlimKugot
 - 👀 I’m interested in Backend Developing
@@ -20,11 +18,10 @@ You can click the Preview link to take a look at your changes.
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![psql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Алгоритмы
+### Projects
 
-Изучению алгоритмов я уделяю много внимания. Этому посвящены некоторые мои проекты:
+*I will translate all as soon as possible*
+
 1. [ClassicStructures](https://github.com/AlimKugot/ClassicStructures)
 2. [HighMathJava](https://github.com/AlimKugot/HigherMathJava)
-
-### Рабочие Проекты
-...
+3. [myCloud](https://github.com/AlimKugot/alimCloud)
