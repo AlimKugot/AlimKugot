@@ -1,6 +1,6 @@
 👋 Hi, I’m @AlimKugot
 
-👀 I’m interested in Java Development (backend)
+👀 I’m interested in backend development
 
 🌱 I’m currently learning Spring framework
 
