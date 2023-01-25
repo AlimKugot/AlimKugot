@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning Spring framework
 
-🧠 Algorithms: [yandex-contest](https://github.com/AlimKugot/Yandex-Algorithms) | [hackerrank](https://hackerrank.com/alim_kugotov) | [leetcode](https://leetcode.com/AlimKugotov)
+🧠 Algorithm profiles: [yandex-contest](https://github.com/AlimKugot/Yandex-Algorithms) | [hackerrank](https://hackerrank.com/alim_kugotov) | [leetcode](https://leetcode.com/AlimKugotov)
